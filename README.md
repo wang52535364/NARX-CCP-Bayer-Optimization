@@ -35,6 +35,12 @@ streamlit run app.py
 
 If no dataset is uploaded the app uses a synthetic demo dataset. A small sanitized sample is included in `data/sample_data.csv`.
 
+## Screenshots
+
+Below is a screenshot of the running Decision Support System (DSS) demo. For best results, open the app locally using the instructions above and interact with the controls.
+
+![Streamlit demo screenshot](screenshots/streamlit_viewport.png)
+
 ## License
 
 MIT — see `LICENSE`.
